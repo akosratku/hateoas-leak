@@ -1,4 +1,4 @@
-package com.example.leaktest;
+package com.example;
 
 import static org.springframework.hateoas.mvc.ControllerLinkBuilder.linkTo;
 import static org.springframework.hateoas.mvc.ControllerLinkBuilder.methodOn;

@@ -1,4 +1,4 @@
-package com.example.leaktest;
+package com.example;
 
 import org.springframework.hateoas.ResourceSupport;
 
